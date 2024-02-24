@@ -8,7 +8,7 @@ I'm vlogger, gamer, chef and code engineering.
 ![Profile summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aldrinbalitbit)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=aldrinbalitbit&hide=&show=reviews,prs_merged,prs_merged_percentage&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aldrinbalitbit&layout=pie)
-![My Streak](https://github-readme-streak-stats.herokuapp.com/?user=aldrinbalitbit&locale=en)
+![My Streak](https://github-readme-streak-stats.herokuapp.com/?user=aldrinbalitbit)
 ![My time card](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aldrinbalitbit&utcOffset=8)
 ![My Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=aldrinbalitbit&limit=10)
 
